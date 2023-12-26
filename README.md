@@ -24,7 +24,7 @@ Welcome to UltimateGrep, Happy Searching !
                 -f    Any file pattern
                 -e    Pattern to search for
      
-    usage: bash UltimateGrep.sh -d ./home/user/ -f "*.txt" -e "ice"
+    usage: UltimateGrep -d ./home/user/ -f "*.txt" -e "ice"
 
 
 
