@@ -44,4 +44,4 @@ do
     esac
 done
 
-find ${DIR} -name "${PATTERN}" | xargs -I {}  grep  --color=always -n -H "${EXPR}" {}
+find ${DIR} -name "${PATTERN}" | xargs -I {}  grep  --color=auto -n -H "${EXPR}" {}
