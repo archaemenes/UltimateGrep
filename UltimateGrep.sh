@@ -12,7 +12,7 @@ Help()
    echo "            -f    Any file pattern"
    echo "            -e    Pattern to search for"
    echo " "
-   echo "usage: bash UltimateGrep.sh -d ./home/user/ -f \"*.txt\" -e \"ice\""
+   echo "usage: UltimateGrep -d ./home/user/ -f \"*.txt\" -e \"ice\""
 
    echo
    exit;
@@ -24,7 +24,7 @@ then
   echo "__No arguments supplied__"
   echo " "
   echo "Syntax: use options [-d|f|h|e]"
-  echo "usage: bash UltimateGrep.sh -d ./home/user/ -f \"*.txt\" -e \"ice\""
+  echo "usage: UltimateGrep -d ./home/user/ -f \"*.txt\" -e \"ice\""
   echo "Use -h for help"
   echo " "
   echo "Welcome to UltimateGrep, Happy Searching !"
