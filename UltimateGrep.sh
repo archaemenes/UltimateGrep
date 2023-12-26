@@ -20,7 +20,8 @@ Help()
 
 if [ "$#" -eq 0 ]
 then
-  echo "___No arguments supplied___"
+  echo " "
+  echo "__No arguments supplied__"
   echo " "
   echo "Syntax: use options [-d|f|h|e]"
   echo "usage: bash UltimateGrep.sh -d ./home/user/ -f \"*.txt\" -e \"ice\""
