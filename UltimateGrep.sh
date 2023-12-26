@@ -12,7 +12,7 @@ Help()
    echo "            -f    Any file pattern"
    echo "            -e    Pattern to search for"
    echo " "
-   echo "usage: UltimateGrep -d ./home/user/ -f \"*.txt\" -e \"ice\""
+   echo "usage: UltimateGrep -d ./home/user/ -f "*.txt" -e \"ice\""
 
    echo
    exit;
