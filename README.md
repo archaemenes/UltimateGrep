@@ -15,10 +15,12 @@ For setup run : `bash setup.sh`
 
 ## Usage 
 
-UltimateGrep
+
 
 Welcome to UltimateGrep, Happy Searching !
  
+    UltimateGrep 
+    
     Search for patterns in multiple file present in any locations.
     
     Syntax: use the given options [-d|f|h|e]
