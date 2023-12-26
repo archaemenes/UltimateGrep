@@ -1,4 +1,6 @@
 #! /bin/bash
+
+sudo apt-get install git
 git clone https://github.com/archaemenes/UltimateGrep.git
 cd UltimateGrep
 mv UltimateGrep.sh UltimateGrep
