@@ -12,7 +12,10 @@ For setup run : `bash setup.sh`
     echo "export PATH=\$PATH:`pwd`/" >> ~/.bashrc && source ~/.bashrc
 
 
+
 ## Usage 
+
+UltimateGrep
 
 Welcome to UltimateGrep, Happy Searching !
  
