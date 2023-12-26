@@ -3,7 +3,7 @@
 Help()
 {
    # Display Help
-   echo "Search for patterns in multiple file present in any locations."
+   echo "Search for patterns in multiple files present in any locations."
    echo
    echo "Syntax: use the given options [-d|f|h|e]"
    echo -n "options:"
