@@ -1,7 +1,7 @@
 
 # UltimateGrep
 Finding out matching patterns in multiple files at any location.
-For setup run : `bash setup.sh`
+For setup run `bash setup.sh` or contents given below:
 
     sudo apt-get install git
     git clone https://github.com/archaemenes/UltimateGrep.git
